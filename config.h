@@ -127,7 +127,7 @@ unsigned int tabspaces = 8;
 char *xdndescchar = " !\"#$&'()*;<>?[\\]^`{|}~";
 
 /* bg opacity */
-float alpha = 0.60;
+float alpha = 0.85;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
